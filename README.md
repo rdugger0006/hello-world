@@ -1,2 +1,2 @@
 # hello-world
-This is my first github repo.  Hello word, you beautiful bitch!
+This is my first github repo.  Hello world, you beautiful bitch!
